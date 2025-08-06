@@ -2800,6 +2800,7 @@ This project uses several third-party dependencies. Below is the list of depende
   - [The W3C License](http://www.w3.org/TR/2004/REC-DOM-Level-3-Core-20040407/java-binding.zip)
 
 
+
 ## 📦 External Libraries  Used for Frontend
  
 ### 🔹 Lodash
@@ -2821,3 +2822,224 @@ This project uses several third-party dependencies. Below is the list of depende
 - **Version:** 5.65.11  
 - **License:** MIT License  
   [https://codemirror.net/](https://codemirror.net/)
+
+### ui5-middleware-livereload  
+
+- **Version:** 3.1.2  
+
+- **License:** Apache‑2.0 (from npm metadata) :contentReference[oaicite:1]{index=1}  
+
+  [https://www.npmjs.com/package/ui5-middleware-livereload](https://www.npmjs.com/package/ui5-middleware-livereload)
+ 
+### ui5-middleware-cfdestination  
+
+- **Version:** 3.3.11 (latest)  
+
+- **License:** Apache‑2.0 :contentReference[oaicite:2]{index=2}  
+
+  [https://www.npmjs.com/package/ui5-middleware-cfdestination](https://www.npmjs.com/package/ui5-middleware-cfdestination)
+ 
+### ui5-middleware-simpleproxy  
+
+- **Version:** 3.4.3 (latest)  
+
+- **License:** Dual‑licensed Apache‑2.0 or Derived Beer‑ware; Apache‑2.0 is the official default :contentReference[oaicite:3]{index=3}  
+
+  [https://www.npmjs.com/package/ui5-middleware-simpleproxy](https://www.npmjs.com/package/ui5-middleware-simpleproxy)
+ 
+### ui5-task-stringreplacer  
+
+- **Version:** 0.5.0  
+
+- **License:** Dual‑licensed Apache‑2.0 or Derived Beer‑ware; official default is Apache‑2.0 :contentReference[oaicite:4]{index=4}  
+
+  [https://www.npmjs.com/package/ui5-task-stringreplacer](https://www.npmjs.com/package/ui5-task-stringreplacer)
+ 
+### ui5-task-minifier  
+
+- **Version:** 2.0.0  
+
+- **License:** MIT (validated from GitHub repo) :contentReference[oaicite:5]{index=5}  
+
+  [https://github.com/mauriciolauffer/ui5-task-minifier](https://github.com/mauriciolauffer/ui5-task-minifier)
+ 
+### ui5-task-zipper  
+
+- **Version:** 3.4.2 (latest)  
+
+- **License:** Dual‑licensed Apache‑2.0 or Derived Beer‑ware; Apache‑2.0 is the official default :contentReference[oaicite:6]{index=6}  
+
+  [https://www.npmjs.com/package/ui5-task-zipper](https://www.npmjs.com/package/ui5-task-zipper)
+ 
+### ui5-task-cachebuster-indexing  
+
+- **Version:** 1.0.2  
+
+- **License:** MIT :contentReference[oaicite:7]{index=7}  
+
+  [https://github.com/lemaiwo/ui5-task-cachebuster-indexing](https://github.com/lemaiwo/ui5-task-cachebuster-indexing)
+
+ 
+### @sap/approuter  
+
+- **Version:** 14.1.2  
+
+- **License:** SAP open‑source (typically Apache‑2.0; validate in package repository or SAP documentation) :contentReference[oaicite:8]{index=8}  
+
+  [https://www.npmjs.com/package/@sap/approuter](https://www.npmjs.com/package/@sap/approuter)
+ 
+### @sap/xsenv  
+
+- **Version:** 3.4.0  
+
+- **License:** SAP (likely Apache‑2.0 or SAP Developer License; check upstream package.json)
+ 
+### @sap/xssec  
+
+- **Version:** 3.2.17  
+
+- **License:** Apache‑2.0 (confirmed from npm metadata and license file) :contentReference[oaicite:9]{index=9}  
+
+  [https://www.npmjs.com/package/@sap/xssec](https://www.npmjs.com/package/@sap/xssec)
+ 
+### axios  
+
+- **Version:** 1.4.0  
+
+- **License:** MIT (as stated in npm registry)  
+
+  [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
+ 
+### body-parser  
+
+- **Version:** 1.20.2  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
+ 
+### cfenv  
+
+- **Version:** 1.2.4  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/cfenv](https://www.npmjs.com/package/cfenv)
+ 
+### cookie-parser  
+
+- **Version:** 1.4.6  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/cookie-parser](https://www.npmjs.com/package/cookie-parser)
+ 
+### debug  
+
+- **Version:** 4.3.4  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/debug](https://www.npmjs.com/package/debug)
+ 
+### express  
+
+- **Version:** 4.18.2  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
+ 
+### express-http-proxy  
+
+- **Version:** 1.6.3  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/express-http-proxy](https://www.npmjs.com/package/express-http-proxy)
+ 
+### http-errors  
+
+- **Version:** 2.0.0  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/http-errors](https://www.npmjs.com/package/http-errors)
+ 
+### jade  
+
+- **Version:** 1.11.0  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/jade](https://www.npmjs.com/package/jade)
+ 
+### jwt-decode  
+
+- **Version:** 3.1.2  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/jwt-decode](https://www.npmjs.com/package/jwt-decode)
+ 
+### morgan  
+
+- **Version:** 1.10.0  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/morgan](https://www.npmjs.com/package/morgan)
+ 
+### node-fetch  
+
+- **Version:** 3.3.1  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/node-fetch](https://www.npmjs.com/package/node-fetch)
+ 
+### passport  
+
+- **Version:** 0.6.0  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/passport](https://www.npmjs.com/package/passport)
+ 
+### pg  
+
+- **Version:** 8.11.1  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/pg](https://www.npmjs.com/package/pg)
+ 
+### qs  
+
+- **Version:** 6.11.2  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/qs](https://www.npmjs.com/package/qs)
+ 
+### request  
+
+- **Version:** 2.88.2  
+
+- **License:** Apache‑2.0 or MIT (see npm for dual-license info)
+ 
+### request-promise  
+
+- **Version:** 4.2.6  
+
+- **License:** MIT  
+
+  [https://www.npmjs.com/package/request-promise](https://www.npmjs.com/package/request-promise)
+ 
+### url  
+
+- **Version:** 0.11.1  
+
+- **License:** Node.js standard module (open-source; check Node.js license)
+
+ 
