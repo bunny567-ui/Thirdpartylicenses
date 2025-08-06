@@ -2799,3 +2799,25 @@ This project uses several third-party dependencies. Below is the list of depende
   - [The SAX License](http://www.saxproject.org/copying.html)
   - [The W3C License](http://www.w3.org/TR/2004/REC-DOM-Level-3-Core-20040407/java-binding.zip)
 
+
+## 📦 External Libraries  Used for Frontend
+ 
+### 🔹 Lodash
+- **Version:** 4.17.21  
+- **License:** MIT License  
+  [https://www.npmjs.com/package/lodash/v/4.17.21](https://www.npmjs.com/package/lodash/v/4.17.21)
+ 
+---
+ 
+### 🔹 Font Awesome
+- **Version:** 1.0.0  
+- **License:** MIT License  
+  - [Font Awesome v1.0.0 Release](https://github.com/FortAwesome/Font-Awesome/releases/tag/v1.0.0)  
+  - [All Font Awesome Versions](https://fontawesome.com/versions)
+ 
+---
+ 
+### 🔹 CodeMirror
+- **Version:** 5.65.11  
+- **License:** MIT License  
+  [https://codemirror.net/](https://codemirror.net/)
